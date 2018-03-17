@@ -2,8 +2,8 @@
 
 	"description": "Permet de telecharger les musique youtube en MP3",
 	"manifest_version": 2,
-	"name": "Youtube en MP3",
-	"version": "0.0.0.1",
+	"name": "AymericDev: Youtube en MP3",
+	"version": "1.0.0.0",
 	"homepage_url": "https://github.com/Hoax017/Youtube-en-MP3-Extention",
 
 	"icons": {
